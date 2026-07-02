@@ -51,11 +51,11 @@ The outputs of both models are combined through a **decision-level fusion layer*
 
 **Patient intake & CT scan upload**
 
-<img src="readme_assets/shot1.png" width="700"/>
+<img src="readme_assests/shot1.png" width="700"/>
 
 **Generated diagnostic report**
 
-<img src="readme_assets/shot3.png" width="700"/>
+<img src="readme_assests/shot3.png" width="700"/>
 
 </div>
 
